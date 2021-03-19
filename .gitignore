@@ -15,8 +15,8 @@ dist/
 *.pyc
 *.py~
 *.sqlite3
-cafeteria_web/settings.py
-app_cafeteria/migrations/
+#cafeteria_web/settings.py
+#app_cafeteria/migrations/
 
 # Log files
 *.log
