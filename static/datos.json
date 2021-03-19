@@ -1,0 +1,38 @@
+[
+    {
+      "precio": 5,
+      "id": 1,
+      "title": "Café",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 10,
+      "id": 2,
+      "title": "Pizza",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 3,
+      "id": 3,
+      "title": "Agua",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 5,
+      "id": 4,
+      "title": "Galleta",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 2,
+      "id": 5,
+      "title": "Tostada",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    },
+    {
+      "precio": 5,
+      "id": 6,
+      "title": "Té",
+      "thumbnailUrl": "https://picsum.photos/id/30/600"
+    }
+  ]
